@@ -1,0 +1,7 @@
+/* Position text in the bottom-left corner */
+.bottomleft {
+    position: absolute;
+    bottom: 0;
+    left: 16px;
+    color: pink;
+  }
